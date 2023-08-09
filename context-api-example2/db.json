@@ -1,0 +1,75 @@
+{
+  "employee": [
+    {
+      "name": "ali123",
+      "email": "ali.123@gmail.com",
+      "phone": "0538 718 10 26",
+      "id": 2
+    },
+    {
+      "name": "veli",
+      "email": "veli@gmail.com",
+      "phone": "0532 989 23 99",
+      "id": 3
+    },
+    {
+      "name": "adasdad1903",
+      "email": "asdasd",
+      "phone": "asdasd",
+      "id": 4
+    },
+    {
+      "name": "asdasd",
+      "email": "asdasd",
+      "phone": "asdasd",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "qtuncer1903",
+      "password": "159357aa",
+      "read": true,
+      "create": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": 2,
+      "username": "mihri1903",
+      "password": "mihri",
+      "read": true,
+      "create": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "username": "anıl",
+      "password": "anıl",
+      "read": true,
+      "create": false,
+      "update": true,
+      "delete": false,
+      "id": 4
+    },
+    {
+      "username": "ozi",
+      "password": "ozi",
+      "read": false,
+      "create": false,
+      "update": false,
+      "delete": true,
+      "id": 5
+    },
+    {
+      "username": "melis",
+      "password": "melis",
+      "read": true,
+      "create": true,
+      "update": true,
+      "delete": true,
+      "id": 6
+    }
+  ]
+}
